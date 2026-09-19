@@ -1,0 +1,6 @@
+*.pbix
+*.pbit
+.env
+.DS_Store
+Thumbs.db
+assets/data/*.inspect.ndjson
